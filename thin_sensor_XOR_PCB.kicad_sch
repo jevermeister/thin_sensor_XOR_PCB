@@ -7294,7 +7294,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 186.69 78.74 0)
 			(effects
 				(font
@@ -7370,6 +7370,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "ALED1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7437,6 +7443,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0119")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7468,7 +7480,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 133.35 78.74 0)
 			(effects
 				(font
@@ -7544,6 +7556,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "D3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7575,7 +7593,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 132.08 120.65 0)
 			(effects
 				(font
@@ -7651,6 +7669,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "D5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7682,7 +7706,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 186.69 121.92 0)
 			(effects
 				(font
@@ -7758,6 +7782,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "PLED1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7789,7 +7819,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 48.26 80.01 0)
 			(effects
 				(font
@@ -7865,6 +7895,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7932,6 +7968,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0113")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7963,7 +8005,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 48.26 52.07 0)
 			(effects
 				(font
@@ -8039,6 +8081,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8107,6 +8155,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0109")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8138,7 +8192,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 133.35 34.29 0)
 			(effects
 				(font
@@ -8214,6 +8268,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "D1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8245,7 +8305,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 121.92 130.81 0)
 			(effects
 				(font
@@ -8321,6 +8381,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8386,6 +8452,12 @@
 			(project ""
 				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
 					(reference "#PWR?")
+					(unit 0)
+				)
+			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0108")
 					(unit 0)
 				)
 			)
@@ -8456,6 +8528,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0120")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8487,7 +8565,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:RJ45-TH_KH-RJ45-58-8P8C"
 			(at 67.31 62.23 0)
 			(effects
 				(font
@@ -8587,6 +8665,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "RJ2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8655,6 +8739,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0103")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8686,7 +8776,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 186.69 88.9 0)
 			(effects
 				(font
@@ -8762,6 +8852,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8830,6 +8926,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0107")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8861,7 +8963,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 196.85 121.92 0)
 			(effects
 				(font
@@ -8937,6 +9039,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "D6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8968,7 +9076,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 186.69 132.08 0)
 			(effects
 				(font
@@ -9044,6 +9152,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9075,7 +9189,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 186.69 33.02 0)
 			(effects
 				(font
@@ -9151,6 +9265,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "YLED1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9218,6 +9338,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0122")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9249,7 +9375,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 123.19 88.9 0)
 			(effects
 				(font
@@ -9325,6 +9451,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9393,6 +9525,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0104")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9424,7 +9562,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL"
 			(at 49.53 137.16 0)
 			(effects
 				(font
@@ -9536,6 +9674,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9604,6 +9748,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0106")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9635,7 +9785,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 45.72 52.07 0)
 			(effects
 				(font
@@ -9711,6 +9861,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9732,7 +9888,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "KF2EDGV-3.5-3P"
+		(property "Value" "Molex Microfit 3.0 43650-0315"
 			(at 198.0184 143.1671 0)
 			(effects
 				(font
@@ -9742,7 +9898,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 			(at 201.93 137.16 0)
 			(effects
 				(font
@@ -9821,6 +9977,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "PROBE1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9852,7 +10014,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 43.18 80.01 0)
 			(effects
 				(font
@@ -9928,6 +10090,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9959,7 +10127,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 196.85 33.02 0)
 			(effects
 				(font
@@ -10035,6 +10203,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10056,7 +10230,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "KF2EDGV-3.5-3P"
+		(property "Value" "Molex Microfit 3.0 43650-0315"
 			(at 198.0184 54.2671 0)
 			(effects
 				(font
@@ -10066,7 +10240,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 			(at 201.93 48.26 0)
 			(effects
 				(font
@@ -10145,6 +10319,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "Y-STOP1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10166,7 +10346,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "KF2EDGV-3.5-3P"
+		(property "Value" "Molex Microfit 3.0 43650-0315"
 			(at 198.0184 99.9871 0)
 			(effects
 				(font
@@ -10176,7 +10356,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 			(at 201.93 93.98 0)
 			(effects
 				(font
@@ -10255,6 +10435,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "A-STOP1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10322,6 +10508,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0102")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10353,7 +10545,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 123.19 34.29 0)
 			(effects
 				(font
@@ -10429,6 +10621,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "XLED1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10460,7 +10658,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 43.18 52.07 0)
 			(effects
 				(font
@@ -10536,6 +10734,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10601,6 +10805,12 @@
 			(project ""
 				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
 					(reference "#PWR?")
+					(unit 0)
+				)
+			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0101")
 					(unit 0)
 				)
 			)
@@ -10672,6 +10882,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0121")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10693,7 +10909,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "KF2EDGV-3.5-3P"
+		(property "Value" "Molex Microfit 3.0 43650-0315"
 			(at 133.2484 141.8971 0)
 			(effects
 				(font
@@ -10703,7 +10919,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 			(at 137.16 135.89 0)
 			(effects
 				(font
@@ -10784,7 +11000,7 @@
 			)
 			(project ""
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "TOOL")
+					(reference "TOOL1")
 					(unit 1)
 				)
 			)
@@ -10809,7 +11025,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "KF2EDGV-3.5-3P"
+		(property "Value" "Molex Microfit 3.0 43650-0315"
 			(at 134.5184 55.5371 0)
 			(effects
 				(font
@@ -10819,7 +11035,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 			(at 138.43 49.53 0)
 			(effects
 				(font
@@ -10898,6 +11114,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "X-STOP1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10929,7 +11151,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:USB-C-TH_KH-TYPE-C-L10-6P"
 			(at 124.46 168.91 0)
 			(effects
 				(font
@@ -11023,6 +11245,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "USB-PROBE1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11087,6 +11315,12 @@
 			(project ""
 				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
 					(reference "#PWR?")
+					(unit 0)
+				)
+			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0117")
 					(unit 0)
 				)
 			)
@@ -11157,6 +11391,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0112")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11188,7 +11428,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 43.18 168.91 0)
 			(effects
 				(font
@@ -11267,6 +11507,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "T-----P-----G1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11335,6 +11581,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0115")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11366,7 +11618,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 196.85 78.74 0)
 			(effects
 				(font
@@ -11442,6 +11694,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "D4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11510,6 +11768,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0111")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11531,7 +11795,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "KF2EDGV-3.5-3P"
+		(property "Value" "Molex Microfit 3.0 43650-0315"
 			(at 134.5184 99.9871 0)
 			(effects
 				(font
@@ -11541,7 +11805,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 			(at 138.43 93.98 0)
 			(effects
 				(font
@@ -11620,6 +11884,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "Z-STOP1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11651,7 +11921,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 123.19 44.45 0)
 			(effects
 				(font
@@ -11727,6 +11997,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11758,7 +12034,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 121.92 120.65 0)
 			(effects
 				(font
@@ -11834,6 +12110,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "TLED1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11901,6 +12183,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0116")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11932,7 +12220,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 123.19 78.74 0)
 			(effects
 				(font
@@ -12008,6 +12296,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "ZLED1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12039,7 +12333,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 186.69 43.18 0)
 			(effects
 				(font
@@ -12115,6 +12409,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12179,6 +12479,12 @@
 			(project ""
 				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
 					(reference "#PWR?")
+					(unit 0)
+				)
+			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0105")
 					(unit 0)
 				)
 			)
@@ -12250,6 +12556,12 @@
 					(unit 0)
 				)
 			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0114")
+					(unit 0)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12314,6 +12626,12 @@
 			(project ""
 				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
 					(reference "#PWR?")
+					(unit 0)
+				)
+			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0110")
 					(unit 0)
 				)
 			)
@@ -12382,6 +12700,12 @@
 			(project ""
 				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
 					(reference "#PWR?")
+					(unit 0)
+				)
+			)
+			(project ""
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR0118")
 					(unit 0)
 				)
 			)
