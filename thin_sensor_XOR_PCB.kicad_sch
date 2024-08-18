@@ -2572,11 +2572,11 @@
 				)
 			)
 		)
-		(symbol "KH-RJ45-58-8P8C_1"
+		(symbol "KH-RJ45-58-8P8C"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "RJ2"
+			(property "Reference" "RJ1"
 				(at 3.048 -0.4445 0)
 				(effects
 					(font
@@ -2659,7 +2659,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "KH-RJ45-58-8P8C_1_0_0"
+			(symbol "KH-RJ45-58-8P8C_0_0"
 				(rectangle
 					(start -2.54 12.7)
 					(end 2.54 -15.24)
@@ -3893,691 +3893,6 @@
 				)
 			)
 			(symbol "RC0805FR-073K3L_5_0_0"
-				(rectangle
-					(start -1.016 2.54)
-					(end 1.016 -2.54)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "RC0805JR-0733KL"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R7"
-				(at -5.969 2.0955 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "33K"
-				(at -5.9182 -0.4191 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer" "YAGEO(国巨)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier Part" "C137446"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RC0805JR-0733KL_0_0"
-				(rectangle
-					(start -1.016 2.54)
-					(end 1.016 -2.54)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "RC0805JR-0733KL_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R8"
-				(at -1.4986 -2.9083 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "33K"
-				(at -2.1082 -5.4483 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer" "YAGEO(国巨)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier Part" "C137446"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RC0805JR-0733KL_1_0_0"
-				(rectangle
-					(start -1.016 2.54)
-					(end 1.016 -2.54)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "RC0805JR-0733KL_2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R11"
-				(at 1.524 0.8509 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "33K"
-				(at 1.524 -1.3843 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer" "YAGEO(国巨)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier Part" "C137446"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RC0805JR-0733KL_2_0_0"
-				(rectangle
-					(start -1.016 2.54)
-					(end 1.016 -2.54)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "RC0805JR-0733KL_3"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R10"
-				(at -5.969 2.0955 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "33K"
-				(at -5.9182 -0.4191 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer" "YAGEO(国巨)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier Part" "C137446"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RC0805JR-0733KL_3_0_0"
-				(rectangle
-					(start -1.016 2.54)
-					(end 1.016 -2.54)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "RC0805JR-0733KL_4"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R9"
-				(at 5.969 2.0955 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify right top)
-				)
-			)
-			(property "Value" "33K"
-				(at 5.9182 -0.4191 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify right top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Manufacturer" "YAGEO(国巨)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier Part" "C137446"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "BOM_Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RC0805JR-0733KL_4_0_0"
 				(rectangle
 					(start -1.016 2.54)
 					(end 1.016 -2.54)
@@ -5934,12 +5249,6 @@
 		(uuid "225b41ad-52e3-405d-8660-880b6d3d09b5")
 	)
 	(junction
-		(at 48.26 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2a5bb1b0-37af-4c3c-9416-e5b77b0d33c7")
-	)
-	(junction
 		(at 121.92 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5964,46 +5273,16 @@
 		(uuid "85b366c5-5970-4a81-a510-0aa53c96dfe1")
 	)
 	(junction
-		(at 43.18 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "884ab15a-02d0-4ebf-aeec-6a2a14cbe302")
-	)
-	(junction
-		(at 45.72 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8f189fc4-7e87-4e8c-9e7d-323c2a0f0170")
-	)
-	(junction
 		(at 186.69 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f41281d-9722-473b-8878-6435fd586b6e")
 	)
 	(junction
-		(at 48.26 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95594f26-6a84-4e16-905c-55ca2d2fa80e")
-	)
-	(junction
 		(at 186.69 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9bc05e7d-a06c-488f-ab84-e8d883d52f5b")
-	)
-	(junction
-		(at 43.18 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab9fd5e5-3749-412d-98a2-7c6d6176aa69")
-	)
-	(junction
-		(at 45.72 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac02c81d-707e-483b-81ee-f5a8af7553f4")
 	)
 	(junction
 		(at 127 115.57)
@@ -6028,22 +5307,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea5d1e30-ab06-44a6-a433-3e27d342d433")
-	)
-	(junction
-		(at 45.72 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fbfe4a89-dc50-4c82-8669-458c2c3e1393")
-	)
-	(wire
-		(pts
-			(xy 40.64 72.39) (xy 48.26 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "041efcae-6662-4826-bf6f-15bab3f9ee21")
 	)
 	(wire
 		(pts
@@ -6084,26 +5347,6 @@
 			(type default)
 		)
 		(uuid "0da04147-ad11-4917-8b6b-e58df58a6c38")
-	)
-	(wire
-		(pts
-			(xy 45.72 57.15) (xy 45.72 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1038ee27-bb95-46f2-96b1-a39f3360a60c")
-	)
-	(wire
-		(pts
-			(xy 40.64 62.23) (xy 45.72 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12761c67-aaeb-4528-a94d-c0da89764a01")
 	)
 	(wire
 		(pts
@@ -6207,26 +5450,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 85.09) (xy 48.26 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28835c36-41fb-4d56-97e1-277140e18b1c")
-	)
-	(wire
-		(pts
-			(xy 43.18 85.09) (xy 45.72 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29b28d70-044c-48d6-a209-50fc0974faa3")
-	)
-	(wire
-		(pts
 			(xy 132.08 125.73) (xy 132.08 133.35)
 		)
 		(stroke
@@ -6267,16 +5490,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 64.77) (xy 62.23 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42b7e43c-9698-462c-9ec2-d00273d989b6")
-	)
-	(wire
-		(pts
 			(xy 123.19 73.66) (xy 128.27 73.66)
 		)
 		(stroke
@@ -6307,16 +5520,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 72.39) (xy 62.23 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "497cef77-a8cf-4711-840d-a8f3e7a5452d")
-	)
-	(wire
-		(pts
 			(xy 191.77 139.7) (xy 196.85 139.7)
 		)
 		(stroke
@@ -6334,16 +5537,6 @@
 			(type default)
 		)
 		(uuid "4d132f3c-cf4a-4e7b-ab24-29e2b6e3991c")
-	)
-	(wire
-		(pts
-			(xy 48.26 74.93) (xy 48.26 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d43b245-1daa-4825-b7a7-d4a4cc3f7ef5")
 	)
 	(wire
 		(pts
@@ -6417,13 +5610,13 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 57.15) (xy 43.18 59.69)
+			(xy 36.83 85.09) (xy 62.23 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6b8a902c-b60a-425c-a65f-6c927133bd2f")
+		(uuid "6b8e4c72-dbbf-40f3-8dfe-6481ab049f0f")
 	)
 	(wire
 		(pts
@@ -6434,16 +5627,6 @@
 			(type default)
 		)
 		(uuid "6c79f519-1998-422c-9d90-c0a38b6a16d9")
-	)
-	(wire
-		(pts
-			(xy 60.96 54.61) (xy 62.23 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ee7ea19-d323-41a4-b31c-37d0a456f0ea")
 	)
 	(wire
 		(pts
@@ -6467,16 +5650,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 64.77) (xy 48.26 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75c01a36-51a2-438e-897c-024cbca0e8db")
-	)
-	(wire
-		(pts
 			(xy 128.27 73.66) (xy 133.35 73.66)
 		)
 		(stroke
@@ -6494,16 +5667,6 @@
 			(type default)
 		)
 		(uuid "7f344dcc-9b72-4553-9105-c2f25ac49e4c")
-	)
-	(wire
-		(pts
-			(xy 45.72 62.23) (xy 62.23 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f814157-4cc3-4370-985c-7900d216c95f")
 	)
 	(wire
 		(pts
@@ -6527,16 +5690,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 59.69) (xy 43.18 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8869a621-f77e-4c64-b6ed-b77694415e23")
-	)
-	(wire
-		(pts
 			(xy 59.69 139.7) (xy 60.96 139.7)
 		)
 		(stroke
@@ -6544,6 +5697,16 @@
 			(type default)
 		)
 		(uuid "88f59a32-3cf9-4d59-a3ef-446e821645de")
+	)
+	(wire
+		(pts
+			(xy 36.83 90.17) (xy 62.23 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94e85552-666c-46ae-8d8c-cbb12d658f73")
 	)
 	(wire
 		(pts
@@ -6577,16 +5740,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 46.99) (xy 45.72 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a93f9149-e739-4a16-8869-d8b4cfd577d9")
-	)
-	(wire
-		(pts
 			(xy 119.38 135.89) (xy 121.92 135.89)
 		)
 		(stroke
@@ -6594,6 +5747,16 @@
 			(type default)
 		)
 		(uuid "aba56bda-2286-44b1-8985-f04c4b8494ab")
+	)
+	(wire
+		(pts
+			(xy 36.83 77.47) (xy 62.23 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae684f0c-b3a6-495d-be4d-ae2ef2f628a7")
 	)
 	(wire
 		(pts
@@ -6617,26 +5780,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 74.93) (xy 43.18 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b641ed00-962d-4e63-854a-aa593b3620f5")
-	)
-	(wire
-		(pts
-			(xy 40.64 69.85) (xy 43.18 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc225b93-5c44-40dd-9764-d1306a3f5845")
-	)
-	(wire
-		(pts
 			(xy 191.77 116.84) (xy 196.85 116.84)
 		)
 		(stroke
@@ -6647,23 +5790,13 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 57.15) (xy 48.26 64.77)
+			(xy 36.83 82.55) (xy 62.23 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bf8b49da-e317-4ae3-8bbf-367b04e1466b")
-	)
-	(wire
-		(pts
-			(xy 43.18 46.99) (xy 45.72 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4245263-4a07-4e94-a8e6-ec7b7e41761b")
+		(uuid "c5d3092a-3215-4704-a19a-b170592b7a71")
 	)
 	(wire
 		(pts
@@ -6674,6 +5807,16 @@
 			(type default)
 		)
 		(uuid "ca127433-c28c-4cbf-9912-3111c140bc5a")
+	)
+	(wire
+		(pts
+			(xy 60.96 72.39) (xy 62.23 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cefb2a63-0862-4d30-9574-cdc79984859b")
 	)
 	(wire
 		(pts
@@ -6727,23 +5870,23 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 69.85) (xy 62.23 69.85)
+			(xy 36.83 87.63) (xy 62.23 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e13c1005-80c1-494d-a6b0-9908cdffd740")
+		(uuid "e27c6326-4c13-4271-bcf1-62524db34185")
 	)
 	(wire
 		(pts
-			(xy 43.18 59.69) (xy 62.23 59.69)
+			(xy 36.83 80.01) (xy 62.23 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e87b5766-46d3-45ef-a725-55456603a21c")
+		(uuid "e88a1cf1-72e5-4e23-b76c-513c183f4f80")
 	)
 	(wire
 		(pts
@@ -6805,7 +5948,27 @@
 		)
 		(uuid "feccdf23-2702-4f97-907a-a0dfa51dc17c")
 	)
-	(global_label "Yend2"
+	(global_label "Xend"
+		(shape input)
+		(at 36.83 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0717f1bc-1039-4a75-80a6-45757d34dfba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Yend"
 		(shape input)
 		(at 184.15 48.26 180)
 		(effects
@@ -6845,27 +6008,7 @@
 			)
 		)
 	)
-	(global_label "Tool"
-		(shape input)
-		(at 40.64 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "198f26cc-d849-49a0-a846-fc001d3c5a3e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.64 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Zend2"
+	(global_label "Zend"
 		(shape input)
 		(at 120.65 93.98 180)
 		(effects
@@ -6907,16 +6050,16 @@
 	)
 	(global_label "Shield"
 		(shape input)
-		(at 67.31 80.01 180)
+		(at 67.31 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "3922bca3-7596-49ed-b2e2-b2c64f00caf8")
+		(uuid "37c44d97-5fb7-4d08-aa96-811d45b7e4b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 67.31 80.01 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6925,18 +6068,18 @@
 			)
 		)
 	)
-	(global_label "Zend1"
+	(global_label "Probe"
 		(shape input)
-		(at 40.64 64.77 180)
+		(at 36.83 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "4707581c-900e-4aa1-995c-dce4872f7ca5")
+		(uuid "4a026204-aedc-4a91-b748-54afc6e606db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.64 64.77 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6947,76 +6090,16 @@
 	)
 	(global_label "Shield"
 		(shape input)
-		(at 67.31 46.99 180)
+		(at 67.31 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "4766cfd8-23c3-47c6-a4ca-f4b5dd6ef611")
+		(uuid "5d8e88ea-2fd9-49bb-b8e6-3914ee8dfad8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 67.31 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Probe1"
-		(shape input)
-		(at 40.64 72.39 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "51d9c9da-10c0-4b4d-981a-c2e8991cac33")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.64 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 62.23 57.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "56f060ae-d637-4dab-8e74-19b565634838")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.23 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Xend1"
-		(shape input)
-		(at 40.64 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "57e442bf-2f22-4ac2-9cc9-eea6762abbf7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.64 59.69 0)
+			(at 67.31 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7037,6 +6120,26 @@
 		(uuid "6b655bb4-067f-4646-a8a3-99442646de54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 119.38 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 62.23 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6e1c0dea-bc54-47ed-a5cf-5694ac9ec09e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7105,6 +6208,46 @@
 			)
 		)
 	)
+	(global_label "Zend"
+		(shape input)
+		(at 36.83 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9804903b-0290-4fcf-a91a-34320a347469")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Tool"
+		(shape input)
+		(at 36.83 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a8e749a7-5d22-4f6a-82b9-6472db2d913d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Probe2"
 		(shape input)
 		(at 182.88 137.16 180)
@@ -7165,18 +6308,38 @@
 			)
 		)
 	)
-	(global_label "Yend1"
+	(global_label "Aend"
 		(shape input)
-		(at 40.64 62.23 180)
+		(at 36.83 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "dbe3bcaa-6d4e-49e2-baf9-990650990e5a")
+		(uuid "d081e691-7d08-402a-83ed-301ed36368bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.64 62.23 0)
+			(at 36.83 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Yend"
+		(shape input)
+		(at 36.83 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dccca875-82b2-4e19-9ebe-7ea3a98f9cda")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7225,7 +6388,7 @@
 			)
 		)
 	)
-	(global_label "Xend2"
+	(global_label "Xend"
 		(shape input)
 		(at 120.65 49.53 180)
 		(effects
@@ -7237,26 +6400,6 @@
 		(uuid "f41cf932-beb8-4624-a11b-791921a312c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 120.65 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Aend"
-		(shape input)
-		(at 62.23 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fa71eede-08d0-4c73-b7ae-274c4b593520")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.23 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7374,6 +6517,74 @@
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "ALED1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "VCC")
+		(at 60.96 72.39 0)
+		(mirror x)
+		(unit 0)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "130406a5-b91c-4fef-9cb2-a32971a089fd")
+		(property "Reference" "#PWR01"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 57.8358 69.596 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 2.1717 2.1717)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name 'VCC'"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44d54f52-311c-411e-9e8e-ad09b20c4e6f")
+		)
+		(instances
+			(project "thin_sensor_XOR_PCB"
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "#PWR01")
+					(unit 0)
 				)
 			)
 		)
@@ -7791,119 +7002,6 @@
 		)
 	)
 	(symbol
-		(lib_id "RC0805JR-0733KL_2")
-		(at 48.26 80.01 0)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30321c18-c39b-406d-9de9-eea0ee9ade1b")
-		(property "Reference" "R11"
-			(at 49.784 79.1591 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "33K"
-			(at 49.784 81.3943 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer" "YAGEO(国巨)"
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier Part" "C137446"
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier" "LCSC"
-			(at 48.26 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8a875bfc-d0e0-412f-b9dd-3dfaf60f8edd")
-		)
-		(pin "1"
-			(uuid "e4d08a87-809c-4ffb-9d0f-30165ef89420")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "R11")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "GND")
 		(at 113.03 175.26 0)
 		(unit 0)
@@ -7971,193 +7069,6 @@
 			(project ""
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "#PWR0113")
-					(unit 0)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RC0805JR-0733KL_4")
-		(at 48.26 52.07 0)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3e7c497c-e950-4eac-984f-e6c15d100fd8")
-		(property "Reference" "R9"
-			(at 54.229 49.9745 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "33K"
-			(at 54.1782 52.4891 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer" "YAGEO(国巨)"
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier Part" "C137446"
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier" "LCSC"
-			(at 48.26 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e151fb55-be8f-4ee6-b7d4-cf3c30d900c5")
-		)
-		(pin "2"
-			(uuid "11a3aa5b-18ec-4db6-9427-a5e84551d905")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "R9")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "VCC")
-		(at 60.96 54.61 0)
-		(mirror x)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42e1af29-2df5-4ec1-b4df-9aba197506d5")
-		(property "Reference" "#PWR?"
-			(at 60.96 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 57.8866 52.07 0)
-			(effects
-				(font
-					(face "Times New Roman")
-					(size 2.1717 2.1717)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name 'VCC'"
-			(at 60.96 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9a73ea10-9f2d-418e-8154-5c26835ff4fb")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "#PWR?")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "#PWR0109")
 					(unit 0)
 				)
 			)
@@ -8390,80 +7301,6 @@
 		)
 	)
 	(symbol
-		(lib_id "VCC")
-		(at 45.72 46.99 0)
-		(mirror x)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "55a7114e-03d4-4ef6-bb4b-cfe0b6d11e52")
-		(property "Reference" "#PWR?"
-			(at 45.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 42.6466 44.45 0)
-			(effects
-				(font
-					(face "Times New Roman")
-					(size 2.1717 2.1717)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" ""
-			(at 45.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name 'VCC'"
-			(at 45.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "95314a37-b047-42f8-b062-eeec3b5a7074")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "#PWR?")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "#PWR0108")
-					(unit 0)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "GND")
 		(at 35.56 144.78 0)
 		(unit 0)
@@ -8532,143 +7369,6 @@
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "#PWR0120")
 					(unit 0)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "KH-RJ45-58-8P8C_1")
-		(at 67.31 62.23 0)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5cc10d5a-f6f3-460a-9643-cfc9e6e62834")
-		(property "Reference" "RJ2"
-			(at 70.358 62.6745 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "KH-RJ45-58-8P8C"
-			(at 70.358 64.9859 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "thin sensor pcb custom:RJ45-TH_KH-RJ45-58-8P8C"
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer Part" "KH-RJ45-58-8P8C"
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer" "kinghelm(金航标)"
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier Part" "C2683360"
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier" "LCSC"
-			(at 67.31 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "73d01ef1-590b-4e3e-9e07-2a8ead64088d")
-		)
-		(pin "8"
-			(uuid "70e94bfa-aedf-4a11-9708-5e266fd580a5")
-		)
-		(pin "4"
-			(uuid "873e010a-b10b-4bf0-bd66-6ed77bf4621b")
-		)
-		(pin "7"
-			(uuid "2c5a0690-74be-4196-98a6-b074e0d78b0e")
-		)
-		(pin "1"
-			(uuid "b0e87035-252e-4b97-8c74-ddd7d8c74c01")
-		)
-		(pin "3"
-			(uuid "57561000-1622-4fff-973d-2db70a4374d8")
-		)
-		(pin "5"
-			(uuid "c3ffeae7-6b81-40d1-9730-741f2ac6c2c2")
-		)
-		(pin "10"
-			(uuid "18102ad9-7e56-4bc5-80e7-7d4e786db8c7")
-		)
-		(pin "6"
-			(uuid "3f5b9700-66bc-44ee-8131-bc6b29af53c2")
-		)
-		(pin "9"
-			(uuid "841c3c2b-1bae-49f9-af90-905fd487e7e1")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "RJ2")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "RJ2")
-					(unit 1)
 				)
 			)
 		)
@@ -8856,80 +7556,6 @@
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "R4")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "VCC")
-		(at 45.72 85.09 0)
-		(mirror y)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "632f1a55-a4ff-4a96-b7eb-051853ddd628")
-		(property "Reference" "#PWR?"
-			(at 45.72 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 42.5704 90.5002 -180)
-			(effects
-				(font
-					(face "Times New Roman")
-					(size 2.1717 2.1717)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" ""
-			(at 45.72 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name 'VCC'"
-			(at 45.72 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0cd11f9e-e076-4496-bc68-cb2ebbf53977")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "#PWR?")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "#PWR0107")
-					(unit 0)
 				)
 			)
 		)
@@ -9757,119 +8383,6 @@
 		)
 	)
 	(symbol
-		(lib_id "RC0805JR-0733KL_1")
-		(at 45.72 52.07 0)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7d20c4ef-afda-415f-b22e-90a44cd930e5")
-		(property "Reference" "R8"
-			(at 44.2214 54.9783 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "33K"
-			(at 43.6118 57.5183 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer" "YAGEO(国巨)"
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier Part" "C137446"
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier" "LCSC"
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f7b0e235-e910-4552-a9d4-76b2e6c6a1f8")
-		)
-		(pin "1"
-			(uuid "3d99a616-3f61-4ef6-a2b5-ca3a124bac86")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "R8")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "KF2EDGV-3.5-3P_5")
 		(at 201.93 137.16 0)
 		(unit 0)
@@ -9980,119 +8493,6 @@
 			(project ""
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "PROBE1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RC0805JR-0733KL_3")
-		(at 43.18 80.01 0)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "92c3b65a-637d-484e-b1cb-f127e06c1c7a")
-		(property "Reference" "R10"
-			(at 37.211 77.9145 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "33K"
-			(at 37.2618 80.4291 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer" "YAGEO(国巨)"
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier Part" "C137446"
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier" "LCSC"
-			(at 43.18 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "511aa7b9-5127-4952-ab1d-a8c0596835bf")
-		)
-		(pin "1"
-			(uuid "d3084888-b149-4f8a-a250-f471800f9564")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "R10")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -10624,119 +9024,6 @@
 			(project ""
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "XLED1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RC0805JR-0733KL")
-		(at 43.18 52.07 0)
-		(unit 0)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a1ce4246-fc83-4d2d-96c0-294425b1fe6a")
-		(property "Reference" "R7"
-			(at 37.211 49.9745 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "33K"
-			(at 37.2618 52.4891 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer Part" "RC0805JR-0733KL"
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Manufacturer" "YAGEO(国巨)"
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier Part" "C137446"
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BOM_Supplier" "LCSC"
-			(at 43.18 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "99b6a0dd-cdd8-494b-9cd3-57cbd9dc78a0")
-		)
-		(pin "2"
-			(uuid "476ec653-1d30-40e2-b81a-dbbe976505cb")
-		)
-		(instances
-			(project ""
-				(path "/1f1885a3-5a10-43ec-ac4a-ccca78ea267a"
-					(reference "R7")
-					(unit 0)
-				)
-			)
-			(project ""
-				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -12707,6 +10994,137 @@
 				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
 					(reference "#PWR0118")
 					(unit 0)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KH-RJ45-58-8P8C")
+		(at 67.31 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fadd897d-3a87-4fc3-80b9-336bbd874d70")
+		(property "Reference" "RJ1"
+			(at 70.358 80.4545 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.6891 1.6891)
+				)
+				(justify left top)
+			)
+		)
+		(property "Value" "KH-RJ45-58-8P8C"
+			(at 70.358 82.7659 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.6891 1.6891)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "thin sensor pcb custom:RJ45-TH_KH-RJ45-58-8P8C"
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM_Manufacturer Part" "KH-RJ45-58-8P8C"
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM_Manufacturer" "kinghelm(金航标)"
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM_Supplier Part" "C2683360"
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "BOM_Supplier" "LCSC"
+			(at 67.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7278d3fc-7dbe-4adb-9487-52a5c5aa465c")
+		)
+		(pin "2"
+			(uuid "1a63074c-b18a-4b2b-b5de-10fedcd3c588")
+		)
+		(pin "10"
+			(uuid "9891b392-8976-4f97-8f59-8a14f3a585e4")
+		)
+		(pin "4"
+			(uuid "ac88a72b-d6e4-4a03-86a7-21043507da34")
+		)
+		(pin "5"
+			(uuid "46fd65d2-43fb-4584-bad6-45d144c141bf")
+		)
+		(pin "6"
+			(uuid "542a772b-2f3b-4424-b17b-9573dbb0ae5d")
+		)
+		(pin "7"
+			(uuid "6cd3d139-f8d9-4c81-8e42-7417fd1f2c56")
+		)
+		(pin "8"
+			(uuid "a5cc04d5-162b-42e2-aa1b-523ee0d16bfa")
+		)
+		(pin "9"
+			(uuid "ad7111fc-84bc-41d0-b9f4-5891ad077655")
+		)
+		(pin "1"
+			(uuid "0ed18b00-42de-43f9-9a52-2970490f8714")
+		)
+		(instances
+			(project "thin_sensor_XOR_PCB"
+				(path "/a282c94b-11e5-420e-9c26-7b5f0d25aa05"
+					(reference "RJ1")
+					(unit 1)
 				)
 			)
 		)
