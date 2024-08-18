@@ -3024,6 +3024,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/library.3dshapes/436500315.stp"
+			(offset
+				(xyz 3 1.9 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -180 0)
+			)
+		)
 	)
 	(footprint "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 		(layer "F.Cu")
@@ -5153,6 +5164,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/library.3dshapes/436500315.stp"
+			(offset
+				(xyz 3 1.9 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -180 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -6465,6 +6487,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/library.3dshapes/436500315.stp"
+			(offset
+				(xyz 3 1.9 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -180 0)
+			)
+		)
 	)
 	(footprint "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical"
 		(layer "F.Cu")
@@ -7673,7 +7706,7 @@
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/RJ45-TH_KH-RJ45-58-8P8C.wrl"
 			(offset
-				(xyz 0 -1.49 0)
+				(xyz 0 -1.49 13.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8144,6 +8177,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/436500315.stp"
+			(offset
+				(xyz 3 1.9 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -180 0)
 			)
 		)
 	)
@@ -9142,6 +9186,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/library.3dshapes/436500315.stp"
+			(offset
+				(xyz 3 1.9 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -180 0)
+			)
+		)
 	)
 	(footprint "thin sensor pcb custom:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 		(layer "F.Cu")
@@ -9964,6 +10019,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/436500315.stp"
+			(offset
+				(xyz 3 1.9 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -180 0)
 			)
 		)
 	)
