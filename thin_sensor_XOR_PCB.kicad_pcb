@@ -481,8 +481,20 @@
 			(uuid "36352781-d6af-4755-bd99-b5c79a3efecc")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/RJ45-TH_KH-RJ45-58-8P8C.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -1.49 13.3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/RJ45-TH_KH-RJ45-58-8P8C.step"
+			(offset
+				(xyz 0 -1.5 13.3)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -852,6 +864,18 @@
 			(uuid "ee601637-249d-4ba8-8770-eb7d37f2f8c2")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/USB-C-TH_KH-TYPE-C-L10-6P.wrl"
+			(hide yes)
+			(offset
+				(xyz 0 0.15 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/USB-C-TH_KH-TYPE-C-L10-6P.step"
 			(offset
 				(xyz 0 0.15 5)
 			)
@@ -1421,8 +1445,20 @@
 			(uuid "588b697c-e070-48a5-830a-48029ec1e6ec")
 		)
 		(model "/library.3dshapes/LED0805-RD_RED.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/LED0805-RD_RED.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -3397,8 +3433,20 @@
 			(uuid "aa52f91f-e485-4f2a-bf19-fa544eeb3d64")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/CONN-TH_436500315.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500315.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -4060,8 +4108,20 @@
 			(uuid "c1ddfad7-fab8-4b11-a9e1-254ca1db7c5d")
 		)
 		(model "/library.3dshapes/LED0805-RD_RED.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/LED0805-RD_RED.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5722,8 +5782,20 @@
 			(uuid "c55304f7-326f-4f2b-99f7-10ecc7b20c95")
 		)
 		(model "/library.3dshapes/LED0805-RD_RED.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/LED0805-RD_RED.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6025,8 +6097,20 @@
 			(uuid "7149e224-d314-4140-99db-fbbbe5f6aad2")
 		)
 		(model "/library.3dshapes/LED0805-RD_RED.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/LED0805-RD_RED.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7704,8 +7788,20 @@
 			(uuid "92af892e-8428-4c4b-a3da-a3009f8ca5e8")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/CONN-TH_436500315.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500315.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8733,8 +8829,20 @@
 			(uuid "b9328b66-781b-46db-8d2a-43f808542029")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/CONN-TH_436500315.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500315.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11044,8 +11152,20 @@
 			(uuid "f0812b21-06dd-4bc1-8fbf-40d6bfb04634")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/CONN-TH_436500315.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500315.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11347,8 +11467,20 @@
 			(uuid "48ebca9a-862e-4b1c-aee2-2656fdffdaf2")
 		)
 		(model "/library.3dshapes/LED0805-RD_RED.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/LED0805-RD_RED.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11841,8 +11973,20 @@
 			(uuid "5562240e-1b05-4bf2-9a61-17125e78a8a0")
 		)
 		(model "/library.3dshapes/LED0805-RD_RED.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/LED0805-RD_RED.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
