@@ -2356,8 +2356,20 @@
 			(uuid "c3c47ba6-9114-4627-bdfd-c33a1a19b7bf")
 		)
 		(model "/library.3dshapes/CONN-TH_436500215.wrl"
+			(hide yes)
 			(offset
 				(xyz -0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500215.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7011,8 +7023,20 @@
 			(uuid "56dcbb3a-e2a6-4fb8-b1ac-c98dbe71c613")
 		)
 		(model "d:/NextCloud/3D-Druck/printnc-custom/custom-pcb/thin_sensor_XOR_PCB/library.3dshapes/CONN-TH_436500315.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500315.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -9650,8 +9674,20 @@
 			(uuid "8c6b30cb-491b-4205-8454-125bed93a52b")
 		)
 		(model "/library.3dshapes/CONN-TH_436500415.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.35 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500415.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -12740,8 +12776,20 @@
 			(uuid "8bfd225a-5b2f-4c1f-b2cc-e5fecbf5cde5")
 		)
 		(model "/library.3dshapes/CONN-TH_436500215.wrl"
+			(hide yes)
 			(offset
 				(xyz -0 0.3 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library.3dshapes/CONN-TH_436500215.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
